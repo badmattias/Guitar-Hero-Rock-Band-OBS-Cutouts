@@ -25,3 +25,6 @@ Cutouts Include:
 
 Keep in mind when playing on PlayStation 2 or Xbox360 through A/V, the cutouts may not align correctly!
 Please use the photoshop files to manually align them to your personal setup.
+
+Video Tutorial:
+https://www.youtube.com/watch?v=7iyvo8YqAWw
