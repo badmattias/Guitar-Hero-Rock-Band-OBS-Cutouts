@@ -16,7 +16,11 @@ Cutouts Include:
 - Green Day: Rock Band
 - The Beatles: Rock Band
 - Rock Band 3
+
+(Others)
 - Rock Band 4
+- Fortnite Festival
+- Clone Hero
 
 (PlayStation 2)
 - Guitar Hero
