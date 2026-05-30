@@ -2,7 +2,7 @@ Here are Cutouts of ALL Guitar Hero and Rock Band Games to use with OBS Studio
 
 Cutouts Include:
 
-(Xbox360)
+(Xbox 360)
 - Guitar Hero 2
 - Guitar Hero Encore: Rocks the 80's
 - Guitar Hero 3
