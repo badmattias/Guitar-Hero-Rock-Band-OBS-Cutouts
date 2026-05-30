@@ -4,10 +4,12 @@ Cutouts Include:
 
 (Xbox360)
 - Guitar Hero 2
+- Guitar Hero Encore: Rocks the 80's
 - Guitar Hero 3
 - Guitar Hero: World Tour
 - Guitar Hero: Smash Hits
-- Guitar Hero: Metallica & Van Halen
+- Guitar Hero: Metallica
+- Guitar Hero: Van Halen
 - Guitar Hero 5
 - Guitar Hero: Warriors of Rock
 - Rock Band
@@ -24,7 +26,8 @@ Cutouts Include:
 
 (PlayStation 2)
 - Guitar Hero
-- Guitar Hero 2/Rock's the 80's
+- Guitar Hero 2
+- Guitar Hero Encore: Rocks the 80's
 - Guitar Hero 5
 
 Keep in mind when playing on PlayStation 2 or Xbox360 through A/V, the cutouts may not align correctly!
