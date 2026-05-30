@@ -30,7 +30,7 @@ Cutouts Include:
 - Guitar Hero Encore: Rocks the 80's
 - Guitar Hero 5
 
-Keep in mind when playing on PlayStation 2 or Xbox360 through A/V, the cutouts may not align correctly!
+Keep in mind when playing on PlayStation 2 or Xbox 360 through A/V, the cutouts may not align correctly!
 Please use the photoshop files to manually align them to your personal setup.
 
 Video Tutorial:
